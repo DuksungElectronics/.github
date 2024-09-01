@@ -28,12 +28,17 @@
 <img src="https://img.shields.io/badge/tensorflow Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
 ### 🔽 주요기능
+<img src="https://github.com/DuksungElectronics/DuksungElectronics/assets/75514808/abdd5716-d83d-4597-a37c-1760dd4e1603.png" width="100"> <span margin-right="1000">&nbsp;</span>
 <img src="https://github.com/DuksungElectronics/DuksungElectronics/assets/75514808/4df940d1-ed35-485a-b764-190c4436353c.png" width="100">
 
 **admin for admin ( 무인매장 관리자용 어플)**
 #### 1️⃣ 실시간 매장 내 재고확인 가능 (재고관리 용이)</br>
 #### 2️⃣ 도난의심상황 알림, 도난의심시간대 편집된 CCTV 영상 확인 가능 </br>
 #### 3️⃣ 간편 회원가입, 로그인 / 손님 출입기록 실시간 확인</br>
+
+**admin for client ( 무인매장 관리자용 어플)**
+#### 1️⃣ 실시간 매장 내 재고확인 가능 (재고관리 용이)</br>
+#### 2️⃣ 간편 회원가입, 로그인</br>
 
 ### 📕 논문
 → 재고 관리 및 도난 방지를 위한 영상분석 기반 무인 매장 관리 시스템 - 한국산업정보학회논문지
