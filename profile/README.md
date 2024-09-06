@@ -17,6 +17,7 @@
 ` 2022.09 ` → ` 2023.09 `
 
 ### 🔧 사용스택
+<img src="https://img.shields.io/badge/yolov5-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white"></br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java"></br>
 <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv"></br>
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
@@ -24,6 +25,7 @@
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask"></br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></br>
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
 <img src="https://img.shields.io/badge/tensorflow Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
