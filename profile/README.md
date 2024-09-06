@@ -14,7 +14,7 @@
 |[@Jiyoung Moon](https://github.com/moon0900) |[@ParkHaeIn](https://github.com/femmefatalehaein) |[@Lee-SooJin](https://github.com/Soojin-Lee-01) |
 
 ### ⏰ 개발기간
-` 2022.10 ` → ` 2023.06 `
+` 2022.09 ` → ` 2023.09 `
 
 ### 🔧 사용스택
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java"></br>
